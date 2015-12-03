@@ -1,2 +1,3 @@
 Another fucking version
 
+The very last new line
